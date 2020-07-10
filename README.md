@@ -48,6 +48,8 @@ jupyter notebook
 
 ## R
 
+The R Example is [here](https://cytoscape.org/cytoscape-automation/for-scripters/R/notebooks/Cytoscape-ecosystem-tutorial.nb.html)
+
 ## JavaScript
 
 The JavaScript example contains a standalone web-page that follows the relevant steps from the tutorial. To run the tutorial, navigate to the JavaScript directory in the downloaded tutorials file and do one of the following:
