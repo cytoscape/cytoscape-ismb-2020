@@ -49,3 +49,10 @@ jupyter notebook
 ## R
 
 ## JavaScript
+
+The JavaScript example contains a standalone web-page that follows the relevant steps from the tutorial. To run the tutorial, navigate to the JavaScript directory in the downloaded tutorials file and do one of the following:
+
+- Open the index.html file in your web browser.
+- Mount the web page using a web-server, such as python's http.server. This will behave more like an actual web page would, and is more useful for web development. With python 3 installed, you can use the following command:`sudo python3 -m http.server 80`. After it runs, go to `localhost` in your web browser to see the web page.
+
+ 
