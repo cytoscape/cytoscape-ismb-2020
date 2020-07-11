@@ -6,7 +6,7 @@ This repository contains resources that will be used in the Automation in the Cy
 
 * [Download instructions](#download-instructions)
 * [Python](#python)
-* [R](#r)
+* [R](https://cytoscape.org/cytoscape-automation/for-scripters/R/notebooks/Cytoscape-ecosystem-tutorial.nb.html)
 * [JavaScript](#javascript)
 
 ## Download instructions
@@ -45,8 +45,6 @@ To run the notebooks, navigate to this directory on the command line, then run t
 cd cytoscape-ismb-2020/Python
 jupyter notebook
 ```
-
-## R
 
 ## JavaScript
 
