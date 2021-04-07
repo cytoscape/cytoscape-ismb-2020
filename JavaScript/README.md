@@ -2,7 +2,11 @@
 
 ### Cytoscape Ecosystem Tutorial: JavaScript
 
-To run this tutorial follow these steps:
+#### To run this tutorial ***online***:
+1. Make sure Cytoscape is installed and running.
+2. Launch index.html via githack: http://raw.githack.com/cytoscape/cytoscape-ismb-2020/master/JavaScript/index.html
+
+#### To run this tutorial ___locally___: 
 
 1. Make sure Cytoscape is installed and running.
 2. Clone or download this repository or download and unzip a copy of this example to its own directory. Downloads are available [here](https://github.com/cytoscape/ismb2020/tree/master/JavaScript/dist).
